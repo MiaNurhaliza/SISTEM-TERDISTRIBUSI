@@ -1,0 +1,4 @@
+#Fri Jan 12 22:31:59 ICT 2024
+base.0=D\:\\FOLDER KULIAH\\SMT 5\\Sistem Terdistribusi\\sistergui\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
